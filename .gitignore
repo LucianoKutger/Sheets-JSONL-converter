@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Google API credentials
+credentials.json
+token.json
+*.pem
+
+# Jupyter Notebook checkpoints (falls verwendet)
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# macOS / Linux system files
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Python environment
+Pipfile.lock
+poetry.lock
+
+# Optional: Cache-Dateien
+*.cache
+.cache/
